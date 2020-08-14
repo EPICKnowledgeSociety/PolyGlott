@@ -1,0 +1,2 @@
+*.sol linguist-language=Solidity
+*.aes linguist-language=Sophia
